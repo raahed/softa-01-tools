@@ -16,7 +16,7 @@ _This is an assignment to the [Software Architecture](https://ohm-softa.github.i
 	- Windows: ~~You should not use Windows, use Ubuntu on VirtualBox instead.~~ Download and install the [Windows installation package](https://git-scm.com/download/win); make sure to install (and use) git bash.
 3. Try git in the real world:
 	- Sign in or create an account on [Github](https://github.com) (it's free, and you should already have one...).
-	- Create a new repository (note: with a free account, your're limited to public repos); select __Initialize this repository with a README__ to add a `README.md` file.
+	- Create a new repository; select __Initialize this repository with a README__ to add a `README.md` file.
 	- On your computer, clone your new repository, edit the `README.md` to your choice, using the [Github markdown cheatsheet](https://guides.github.com/features/mastering-markdown/).
 	- Add/stage and commit the changes, and push them to your repository.
 	- Create and switch to a new branch (eg. `feature/add-license`), and add a file `LICENSE` to it, containing the MIT open source software license. Not sure where to find it? Try [this link](http://bfy.tw/EF8t). For a real project, you may want to chose a different license (read more about licenses here: [https://opensource.org/licenses](https://opensource.org/licenses)).
